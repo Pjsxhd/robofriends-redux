@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ztm_repo/static/css/main.1bfadf4e.css",
+    "main.js": "/ztm_repo/static/js/main.4cdd9e36.js",
+    "service-worker.js": "/ztm_repo/service-worker.js",
+    "static/media/SEGA.woff": "/ztm_repo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ztm_repo/index.html",
+    "main.1bfadf4e.css.map": "/ztm_repo/static/css/main.1bfadf4e.css.map",
+    "main.4cdd9e36.js.map": "/ztm_repo/static/js/main.4cdd9e36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfadf4e.css",
+    "static/js/main.4cdd9e36.js"
+  ]
+}
